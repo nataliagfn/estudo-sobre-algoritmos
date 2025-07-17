@@ -1,7 +1,7 @@
 # Estruturas Condicionais 1 - E se acontecer alguma coisa ?
 ## O que sao ?
 1. **condições**: se (alguma coisa acontecer) então (alguma outra coisa)
-2. exemplo no scratch
+2. exemplo no scratch:
 ![Texto](imgAlgoritmos/imagem1.png)
 3. exemplo no visualg(colocar imagem do exemplo e da estrutura) - condicional simples
 4. exemplo utilizando o senao (imagem: scratch e visualg) - condicional composta
