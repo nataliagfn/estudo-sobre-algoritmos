@@ -2,7 +2,7 @@
 ## O que sao ?
 1. **condições**: se (alguma coisa acontecer) então (alguma outra coisa)
 2. exmeplo no scratch
-![](iamgens-algoritmos/imagem1)
+![texto](imagens-algoritmo/imagem1.png)
 3. exemplo no visualg(colocar imagem do exemplo e da estrutura) - condicional simples
 4. exemplo utilizando o senao (imagem: scratch e visualg) - condicional composta
 5. indentação 
@@ -10,3 +10,6 @@
 7. os dois exercicios propostos;
 
 
+
+
+[def]: iamgens-algoritmos/imagem1
